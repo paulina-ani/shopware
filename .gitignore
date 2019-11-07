@@ -1,0 +1,12 @@
+/.idea
+/engine
+/bin
+/custom
+/files
+/media
+/recovery
+/themes/Frontend/Bare
+/themes/Frontend/Responsive
+/var
+/vendor
+config.php
